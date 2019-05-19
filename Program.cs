@@ -10,7 +10,7 @@ namespace funplacestogo
             int people;
 
             // Greets user. Asks first question.
-            Console.WriteLine("Hello User! What are you in the mood for?");
+            Console.WriteLine("Hello User! I hope you're in the mood for a fantastic weekend! What are you in the mood for?");
             string[] starray = new string[]{"1) Action",
             "2) Chill times",
             "3) Danger",
@@ -58,7 +58,7 @@ namespace funplacestogo
             }
             else if (choice == 4)
             {
-                Console.WriteLine("Yum! Since you're in the mood for good food I'd recommend Taco Bell");
+                Console.WriteLine("Yum! Since you're in the mood for good food I'd recommend Five Guys. Cheeseburgers never dissapoint! Oh,");
             }
 
             // Decides how the user should travel
