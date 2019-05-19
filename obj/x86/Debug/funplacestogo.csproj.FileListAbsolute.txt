@@ -1,0 +1,6 @@
+/Users/jamesdockery/Documents/Csharpprework/funplacestogo/funplacestogo/bin/Debug/funplacestogo.exe
+/Users/jamesdockery/Documents/Csharpprework/funplacestogo/funplacestogo/bin/Debug/funplacestogo.pdb
+/Users/jamesdockery/Documents/Csharpprework/funplacestogo/funplacestogo/obj/x86/Debug/funplacestogo.csprojAssemblyReference.cache
+/Users/jamesdockery/Documents/Csharpprework/funplacestogo/funplacestogo/obj/x86/Debug/funplacestogo.csproj.CoreCompileInputs.cache
+/Users/jamesdockery/Documents/Csharpprework/funplacestogo/funplacestogo/obj/x86/Debug/funplacestogo.exe
+/Users/jamesdockery/Documents/Csharpprework/funplacestogo/funplacestogo/obj/x86/Debug/funplacestogo.pdb
